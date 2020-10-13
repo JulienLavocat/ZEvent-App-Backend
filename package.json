@@ -1,0 +1,18 @@
+{
+  "name": "zevent",
+  "version": "0.0.0",
+  "description": "ZEvent 2020 app backend",
+  "main": "dist/index.js",
+  "author": "Julien Lavocat",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@types/express": "^4.17.8",
+    "@types/node-fetch": "^2.5.7",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "helmet": "^4.1.1",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {}
+}
